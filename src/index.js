@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
-
+// Tutorial for this repo can be found here: https://www.howtographql.com/react-apollo/1-getting-started/
 // 1
 import {
   ApolloProvider,
